@@ -12,10 +12,8 @@
 
 
 <h2 align="center"><i>Ｃｏｎｔａｔｏ</i></h2>
-<img align="left" width="220px" height="180px" src="./images/Profile_02.jpg" alt=" coding">
-<br><br>
 
-<p align="center">
+<p align="left">
   <a href = "henriqueorquiza@hotmail.com" alt="-mail"><img src="./images/button/e-mail.svg" target="_blank">
   </a> 
   <a href="https://www.linkedin.com/in/orquizaa" alt="" target="_blank"><img src="./images/button/linkedin.svg" alt="">
