@@ -13,6 +13,9 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="./images/TypeS.png">
+  <img align="center" alt="React Native" height="30" width="40" src="./images/react2.png">
+  <img align="center" alt="Node JS" height="30" width="40" src="./images/node2.png">
 </div>
 
 <h2 align="center"><i>Ｃｏｎｔａｔｏ</i></h2>
