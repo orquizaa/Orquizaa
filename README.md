@@ -1,6 +1,6 @@
 <h2 align="center"><i>Ｓｏｂｒｅ</i></h2>
 <div align="center">
-  <img align="right" src="./images/Profile_01.png" width="313px" height="313px" alt="">
+  <img align="right" src="./images/Profile_01.svg" width="313px" height="313px" alt="">
 
   <ul align="left" style="padding-right: 340px;">
     <li> Tecnologia com Café</li><br>
@@ -12,7 +12,7 @@
 
 
 <h2 align="center"><i>Ｃｏｎｔａｔｏ</i></h2>
-<img align="left" width="220px" height="180px" src="./images/Profile_02.png" alt=" coding">
+<img align="left" width="220px" height="180px" src="./images/Profile_02.svg" alt=" coding">
 <br><br>
 
 <p align="center">
