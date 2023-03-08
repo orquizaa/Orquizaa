@@ -22,7 +22,5 @@
   </a>
   <a href="https://www.instagram.com/orquizaa" alt="" target="_blank"><img src="./images/button/instagram.svg" alt="">
   </a>
-  <a href = "https://discord.gg/fHPHzhMk" alt="Discord"><img src="./images/button/discord.svg" alt="">
-  </a>
 </p>
 <br><br><br>
