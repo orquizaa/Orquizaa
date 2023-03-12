@@ -3,7 +3,7 @@
   <img align="right" src="./images/Profile_01.jpg" width="313px" height="313px" alt="">
 
   <ul align="left" style="padding-right: 340px;">
-    <li> Tecnologia com Café</li><br>
+    <li> Tecnologia e Café</li><br>
     <li> Entusiasta de tecnologia, ambicioso, buscando crescer na área. Sou um estudante/pesquisador totalmente dedicado ao ramo digital.</li><br>
     <li> Minha meta é me tornar um Desenvolvedor Full Stack, tambem apontando para Mobile.</li><br>
   </ul>
